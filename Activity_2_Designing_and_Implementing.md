@@ -26,10 +26,6 @@ LocationIQ offers a suite of services that provide powerful, reliable and scalab
 | q                                                          | Free-form query string to search for. Commas are optional, but improves performance by reducing the complexity of the search. Do not combine with `structured`/`postalcode` parameters                                          | Either   |
 | street<br>city<br>county<br>state<br>country<br>postalcode | Alternative query string format split into several parameters for `structured` requests. Structured requests are faster but are less robust against alternative OSM tagging schemas. Do not combine with `q=<query>` parameter. | Either   |
 
-### References
-
-Locationiq.com. 2021. LocationIQ - Free & Fast Geocoding, Reverse Geocoding and Maps service. [online] Available at: &lt;https://locationiq.com/docs> [Accessed 24 September 2021].
-
 ## Endpoints/Request URLs
 
 ### Endpoints
@@ -73,3 +69,10 @@ https://tiles.locationiq.com/v3/&lt;theme>/&lt type>.json?key=&lt;access_token>
 | geotext       | Output geometry of results as a WKT. Returned when `polygon_text=1` is set in the request.                                                                                                                                                                                                |
 
 ## Authentication Key or Access Tokens
+
+For user-facing applications such as Javascript websites or mobile applications, we recommend creating new access tokens on your user dashboard. Create a separate access token for each app, name it accordingly like "My Website" - and reissue these tokens frequently to prevent abuse. You can use access tokens in both public environments (websites and applications) and private environments (server backends).
+
+
+### References
+
+Locationiq.com. 2021. LocationIQ - Free & Fast Geocoding, Reverse Geocoding and Maps service. [online] Available at: &lt;https://locationiq.com/docs> [Accessed 24 September 2021].
