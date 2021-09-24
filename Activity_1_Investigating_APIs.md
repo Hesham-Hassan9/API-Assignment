@@ -53,6 +53,7 @@ The API is a set of libraries that make up the primary language that you can wor
 | Purpose         | Connects and integrates programs                     | Contains a variety of development tools |
 | Characteristics | Lightweight, fast, usually specialized               | More robust, usually includes many utilities |
 | Use Case        | Used for adding specific functions to an application | Used for creating new applications or adding many functionalities with one package |
+
 ### References
 
 J. Bigelow, S., 2021. What are the types of APIs and their differences?. [online] SearchAppArchitecture. Available at: <https://searchapparchitecture.techtarget.com/tip/What-are-the-types-of-APIs-and-their-differences> [Accessed 24 September 2021].
