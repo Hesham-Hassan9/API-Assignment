@@ -74,7 +74,7 @@ As you can see in the image (1-1), axios packages, korean, dotnove, express pack
 
                        (2-5)
 
-    As you can see in the pictures from (2-2) to (2-25) the axios and boot packages are imported and with each installed package
+    As you can see in the pictures from (2-2) to (2-5) the axios and bootstrap packages are imported and used each installed package.
 
 * Third thing we check if getLocFun function will work:
 
@@ -115,3 +115,19 @@ As you can see in the image (1-1), axios packages, korean, dotnove, express pack
 
     When we enter the name of the city in the assigned place and then click on (Explore!) button as you can see in the pictures (3-1), it will send the city name to the getLocFun function(2-6) and save it in search variable to send as searchQuery to our server and then it will render all function (WeatherDay and MoviesCard) (2-3)-(2-4).
     You can see the result in (3-2), (3-4) and (3-5).
+
+
+# these are the links for the project: 
+github links : https://github.com/Hesham-Hassan9
+
+city explore : https://github.com/Hesham-Hassan9/city-explorer
+
+city explore API: https://github.com/Hesham-Hassan9/city-explorer-api
+
+netlify link: https://hesham-city-explorer.netlify.app/
+
+Heroku link :https://city-explorer-api9.herokuapp.com/
+
+Weather link: https://city-explorer-api9.herokuapp.com/getweather?searchQuery=London
+
+Movies link: https://city-explorer-api9.herokuapp.com/getmovies?searchQuery=London
