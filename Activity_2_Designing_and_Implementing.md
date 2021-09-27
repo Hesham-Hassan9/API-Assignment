@@ -280,3 +280,18 @@ Locationiq.com. 2021. LocationIQ - Free & Fast Geocoding, Reverse Geocoding and 
 Weatherbit.io. 2021. Weatherbit | 16 Day Forecast API Documentation. [online] Available at: <https://www.weatherbit.io/api/weather-forecast-16-day> [Accessed 25 September 2021].
 
 Developers.themoviedb.org. 2021. API Docs. [online] Available at: <https://developers.themoviedb.org/3/getting-started/search-and-query-for-details> [Accessed 25 September 2021].
+
+# these are the links for the project: 
+github links : https://github.com/Hesham-Hassan9
+
+city explore : https://github.com/Hesham-Hassan9/city-explorer
+
+city explore API: https://github.com/Hesham-Hassan9/city-explorer-api
+
+netlify link: https://hesham-city-explorer.netlify.app/
+
+Heroku link :https://city-explorer-api9.herokuapp.com/
+
+Weather link: https://city-explorer-api9.herokuapp.com/getweather?searchQuery=London
+
+Movies link: https://city-explorer-api9.herokuapp.com/getmovies?searchQuery=London
